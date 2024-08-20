@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **lethaboanyanwu2@gmail.com**
 
-- ⚡ Fun fact **i refuse to search up code online. im still trying to create a site to download music from spotify and its taking forever because i dont want to search the code online**
+- ⚡ Fun fact **i refuse to search up code online. im still trying to create a site to download music from spotify and its taking forever because i dont want to search the code online (update i figured it out)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
