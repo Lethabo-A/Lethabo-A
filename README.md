@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any project that can help me gain experience**
 
-- 🤝 I’m looking for help with **react and machine learning**
+- 🤝 I’m looking for help with **any internship or training opportunity availible**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lethabo-A](https://github.com/Lethabo-A)
 
