@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lethabo Anyanwu</h1>
 <h3 align="center">A passionate Information technology student at the North-West university</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
-- 🔭 I’m currently working on [personal portfolio website](https://github.com/Lethabo-A/html-css-js-portfoliowebsite)
+- 🔭 I’m currently working on projects for a School module. Repositories will be made private until im done with the module
 
 - 🌱 I’m currently learning **react and machine learning**
 
