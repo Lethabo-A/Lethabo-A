@@ -1,94 +1,28 @@
-```markdown
-# Hi, I'm Lethabo Anyanwu 👋
+<h1 align="center">Hi, I'm Lethabo Anyanwu</h1>
+<h3 align="center">BSc IT Graduate | Business Automation Developer | Data Analytics & Machine Learning Enthusiast</h3>
 
-Automation Developer • RPA • Data & DevOps-in-Progress
+- 🔭 I’m currently working on [ACME Systems Inc Work Items projects](https://acme-test.uipath.com/home)
 
-> I build practical automations, ship clean code, and push for data-driven decisions.
+- 🌱 I’m currently learning **UiPath's Robotic enterprise framework**
 
----
+- 👯 I’m looking to collaborate on **Any RPA project available**
 
-## 🔥 Highlights
-- **RPA Developer @ i1 Solutions** (2025–present)
-- **BSc in Information Technology** — North-West University (2024)
-- **Awards:** BRICS Skills Challenge 2024 (Automation) — *Bronze*; NWU Geexpo 2024 Hackathon — *1st (Power Platform), 3rd (UiPath)*
-- **Currently:** Prepping for **UiPath Automation Developer Associate (ADAv1)**; exploring **DevOps** & **Business Analysis**
+- 🤝 I'm working on getting my [UiPath Associate developer cert](https://academy.uipath.com/learning-plans/automation-developer-associate-training-(v2023.10))
 
----
+- 👨‍💻 All of my projects are available at [https://github.com/Lethabo-A](https://github.com/Lethabo-A)
 
-## 🛠️ Tech Stack
-**Languages:** C#, Python, Java, SQL
+- 📫 How to reach me **Lethaboanyanwu2@gmail.com**
 
-**Automation:** UiPath (REFramework, Orchestrator, Queues), Power Automate, Object Repository, Integration Service
+- 📄 Know about my experiences [https://www.linkedin.com/in/lethabo-anyanwu-936542275/](https://www.linkedin.com/in/lethabo-anyanwu-936542275/)
 
-**Data & BI:** Power BI, DataTables, Excel automation
+- ⚡ Fun fact **I believe I am a pro gamer and I will try to convince you that i am actually a pro gamer even though I'm not actually a pro**
 
-**DevOps & Tooling:** Git, GitHub, Docker (basics), CI/CD concepts, Azure DevOps (basics)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/lethabo-anyanwu-936542275/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lethabo-anyanwu-936542275/" height="30" width="40" /></a>
+<a href="https://fb.com/lethabo anyanwu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lethabo anyanwu" height="30" width="40" /></a>
+<a href="https://instagram.com/just._.lethabo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="just._.lethabo" height="30" width="40" /></a>
+</p>
 
-**Other:** APIs/Integration, Project Management fundamentals
-
----
-
-## 🧩 What I’m working on
-- **Candidate CV Screening Automation** — UiPath + Orchestrator Queues + GenAI (i1 Solutions)
-- Building study notes & mini projects for **UiPath-ADAv1 v1.2**
-- Small utilities in **Python/C#** for data wrangling and file/process automation
-
----
-
-## 📦 Featured Projects
-- **InternalTraining_VerifyAccountPositions_Dispatcher (ACME Web Scraping)**  
-  *Dispatcher component using REFramework to queue work items reliably.*
-- **InternalTraining_VerifyAccountPositions_Performer**  
-  *Performer that validates and processes account amounts with robust exception handling.*
-- **Power Platform Demos**  
-  *Quick flows, approvals, and integrations for common business scenarios.*
-
-> 🔗 Add links when repos are public.
-
----
-
-## ✅ Certifications & Learning
-- UiPath Automation Developer **Associate** — *in progress (ADAv1 v1.2)*
-- MTN Business App Academy — *completed*
-
----
-
-## 📚 Quick CV
-**Experience**  
-RPA Developer — i1 Solutions *(2025–present)*  
-Personal Assistant — Old Mutual Investment Group *(Jul–Dec 2024)*  
-Marketing Executive — UNICEF *(Feb–Nov 2024)*
-
-**Education**  
-BSc IT — North-West University *(2024)*
-
-**Notable Wins**  
-BRICS Skills Challenge 2024 *(Automation — Bronze)*  
-NWU Geexpo 2024 Hackathon *(1st — Power Platform; 3rd — UiPath Innovation)*
-
----
-
-## 🧠 Interests
-Automation at scale • Process mining • DevOps for RPA • Data pipelines • Clean architecture • Testing & observability
-
----
-
-## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME)
-
----
-
-## 📫 Contact
-- **Email:** lethaboanyanwu2@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/lethabo-anyanwu-936542275
-
----
-
-## 🤝 Open to
-- RPA/Automation projects
-- Entry-level **DevOps** opportunities
-- Data analysis work with strong automation angles
-
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
