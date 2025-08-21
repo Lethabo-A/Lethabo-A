@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **UiPath's Robotic enterprise framework**  
 - 👯 I’m looking to collaborate on **Any RPA project available**  
 - 🤝 I'm working on getting my [UiPath Associate developer cert](https://academy.uipath.com/learning-plans/automation-developer-associate-training-(v2023.10))  
-- 👨‍💻 All of my projects are available at [https://github.com/Lethabo-A](https://github.com/Lethabo-A)  
+- 👨‍💻 My projects are available at [https://github.com/Lethabo-A](https://github.com/Lethabo-A)  
 - 📫 How to reach me **Lethaboanyanwu2@gmail.com**  
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/lethabo-anyanwu-936542275/)  
 - ⚡ Fun fact **I believe I am a pro gamer...**  
