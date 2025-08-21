@@ -92,11 +92,3 @@ Automation at scale • Process mining • DevOps for RPA • Data pipelines •
 - Data analysis work with strong automation angles
 
 ---
-
-### How to use this README
-1. Create a repo named **`USERNAME/USERNAME`** (exactly your GitHub username).  
-2. Save this file as **`README.md`** in that repo.  
-3. Replace placeholders like `USERNAME` and add links to your public repos.
-
-> If you fork, keep credits. Built with focus on clarity, signal over noise, and real-world automation work.
-```
