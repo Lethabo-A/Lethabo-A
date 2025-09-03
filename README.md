@@ -5,7 +5,6 @@
   <tr>
     <td>
       
-- 🔭 I’m currently working on [ACME Systems Inc Work Items projects](https://acme-test.uipath.com/home)  
 - 🌱 I’m currently learning **UiPath's Robotic enterprise framework**  
 - 👯 I’m looking to collaborate on **Any RPA project available**  
 - 🤝 I have the [UiPath Associate developer cert](https://credentials.uipath.com/016e6422-6735-4b09-9f82-bce2b39c3db0)  
