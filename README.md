@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [ACME Systems Inc Work Items projects](https://acme-test.uipath.com/home)  
 - 🌱 I’m currently learning **UiPath's Robotic enterprise framework**  
 - 👯 I’m looking to collaborate on **Any RPA project available**  
-- 🤝 I have the [UiPath Associate developer cert]([https://academy.uipath.com/learning-plans/automation-developer-associate-training-(v2023.10)](https://credentials.uipath.com/016e6422-6735-4b09-9f82-bce2b39c3db0))  
+- 🤝 I have the [UiPath Associate developer cert](https://credentials.uipath.com/016e6422-6735-4b09-9f82-bce2b39c3db0)  
 - 👨‍💻 My projects are available at [https://github.com/Lethabo-A](https://github.com/Lethabo-A)  
 - 📫 How to reach me **Lethaboanyanwu2@gmail.com**  
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/lethabo-anyanwu-936542275/)  
